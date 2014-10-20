@@ -17,3 +17,6 @@ irnd/dist/*.jar
 irnd/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar
 irnd/nbproject/genfiles.properties
 irnd/nbproject/build-impl.xml
+*.csv
+*.properties
+irnd/build/built-jar.properties
